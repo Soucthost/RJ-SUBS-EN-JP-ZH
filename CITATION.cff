@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this metadata, cite the RJ-SUBS.CLOUD dataset."
+title: "RJ-SUBS.CLOUD RJ work metadata"
+type: dataset
+authors:
+  - name: "RJ-SUBS.CLOUD"
+url: "https://rj-subs.cloud/dataset"
+license: "CC-BY-4.0"
