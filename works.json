@@ -306706,7 +306706,7 @@
     "cv": "陽向葵ゅか",
     "release_date": "2026-07-16",
     "duration": null,
-    "has_tracks": 0,
+    "has_tracks": 1,
     "has_subtitles": 1
   },
   {
@@ -309616,7 +309616,7 @@
     "cv": "飴屋ぺろり 鹿瀬紫卯",
     "release_date": "2026-07-15",
     "duration": null,
-    "has_tracks": 0,
+    "has_tracks": 1,
     "has_subtitles": 0
   },
   {
@@ -314445,8 +314445,8 @@
     "maker": "オホ声実演部",
     "cv": "溜まり場ちゃん",
     "release_date": "2026-07-15",
-    "duration": null,
-    "has_tracks": 0,
+    "duration": "約55分",
+    "has_tracks": 1,
     "has_subtitles": 0
   },
   {
@@ -315975,8 +315975,8 @@
     "maker": "実演オホ声倶楽部",
     "cv": "冬鴨ねぎ子",
     "release_date": "2026-07-16",
-    "duration": null,
-    "has_tracks": 0,
+    "duration": "約46分",
+    "has_tracks": 1,
     "has_subtitles": 0
   },
   {
